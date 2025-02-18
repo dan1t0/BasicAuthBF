@@ -1,0 +1,12 @@
+Use Makefile
+------------
+    - To compile only type:     make
+    - To unninstall type:       make clean
+    - To compile for debugging: make debug
+
+
+Manual compile
+--------------
+    - To compile:               gcc BasicAuthBF.c -lpthread -o BasicAuthBF
+    - To compile for debugging: gcc BasicAuthBF.c -ggdb -lpthread -o BasicAuthBF
+

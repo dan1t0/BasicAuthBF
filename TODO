@@ -1,0 +1,8 @@
+-TODO-
+
+- Implement HTTP 1.1 for better optimization and do multiple requests 
+in the same connection
+- Implement the possibility to accept a file with a ip list and ports
+- Implement the possibility to modify the number of threads in function 
+of time of  response to the server for prevent server exhaustion 
+
